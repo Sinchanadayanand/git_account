@@ -1,2 +1,5 @@
 this is the git session
 git installing
+git practice session
+first day of class
+
